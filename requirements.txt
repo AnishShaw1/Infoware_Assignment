@@ -1,0 +1,9 @@
+pdfplumber==0.7.5       # for PDF text extraction
+nltk==3.8.1             # for sentence tokenization
+python-pptx==0.6.21     # for slide (PPTX) creation
+Pillow==10.0.0          # for simple programmatic visuals
+moviepy==1.0.3          # for creating video from slides
+pyttsx3==2.90           # for offline text-to-speech narration
+#tqdm==4.66.1            # (optional) for progress bars / nice CLI feedback
+numpy>=1.25.0
+scikit-learn>=1.3.0
