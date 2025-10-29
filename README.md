@@ -30,21 +30,20 @@ To automatically summarize and visualize educational documents into short multim
 
 ## 🚀 How to Run
 
-### 1️⃣ Setup Environment
-```bash
+###1️⃣ Setup Environment
+
 git clone https://github.com/<your-username>/infooware-edu-prototype.git
 cd infooware-edu-prototype
 pip install -r requirements.txt
 
-
-2️⃣ Run the pipeline
+###2️⃣ Run the pipeline
 python src/run_pipeline.py --input sample_inputs/sample.pdf --outdir output/
 
-3️⃣ Outputs
+###3️⃣ Outputs
 output/slides.pptx   → 6–12 summarized slides
 output/video.mp4     → 30–90 sec video with narration
 
-🧠 Example Output
+###🧠 Example Output
 File	            Description
 slides.pptx	      Auto-generated deck with title, summary, and icons per slide
 video.mp4	        Narrated video version with fade transitions and background music
