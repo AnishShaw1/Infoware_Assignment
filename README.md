@@ -43,7 +43,7 @@ python src/run_pipeline.py --input sample_inputs/sample.pdf --outdir output/
 output/slides.pptx   → 6–12 summarized slides
 output/video.mp4     → 30–90 sec video with narration
 
-###🧠 Example Output
+### 🧠 Example Output
 File	            Description
 slides.pptx	      Auto-generated deck with title, summary, and icons per slide
 video.mp4	        Narrated video version with fade transitions and background music
