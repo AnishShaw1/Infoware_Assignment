@@ -1,4 +1,4 @@
-# 🧠 Infooware Edu Prototype — PDF to Slides & Short Video
+# 🧠 Infoware Edu Prototype — PDF to Slides & Short Video
 
 This project converts an **input PDF chapter/article** into:
 - A **slide deck** (`slides.pptx`) with visuals and concise summaries.
